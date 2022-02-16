@@ -1,0 +1,1 @@
+c775e18d8f77b4a908697f49ff67b8bbecf9b7b90ffd4fb4f8de048836c324c9  cw_erc20.wasm
